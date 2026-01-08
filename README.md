@@ -46,12 +46,16 @@ Below are example preview images used to demonstrate font styles:
 
 | Category | Preview |
 |--------|---------|
-| Sans Serif | ![Sans Serif](previews/sans-serif.jpg) |
-| Serif | ![Serif](previews/serif.png) |
-| Monospace | ![Monospace](previews/monospace.png) |
-| Tall / Condensed | ![Tall Condensed](previews/tall-condensed.png) |
-| Display | ![Display](previews/display.png) |
-| Handwritten | ![Handwritten](previews/handwritten.png) |
+| Sans Serif | ![Sans Serif](previews/1@2x-100.jpg) |
+| Serif | ![Serif](previews/2@2x-100.jpg) |
+| Monospace | ![Monospace](previews/3@2x-100.jpg) |
+| Tall / Condensed | ![Tall Condensed](previews/4@2x-100.jpg) |
+| Display | ![Display](previews/5@2x-100.jpg) |
+| Handwritten | ![Handwritten](previews/6@2x-100.jpg) |
+| Script | ![Script](previews/7@2x-100.jpg) |
+| Brush-Grunge | ![Brush-Grunge](previews/8@2x-100.jpg) |
+| Retro-Vintage | ![Retro-Vintage](previews/9@2x-100.jpg) |
+| Cultural-Styled | ![Cultural-Styled](previews/10@2x-100.jpg) |
 
 > 💡 Preview images are for demonstration only. Font licenses are included where required.
 
