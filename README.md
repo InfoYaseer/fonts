@@ -46,7 +46,7 @@ Below are example preview images used to demonstrate font styles:
 
 | Category | Preview |
 |--------|---------|
-| Sans Serif | ![Sans Serif](previews/sans-serif.png) |
+| Sans Serif | ![Sans Serif](previews/sans-serif.jpg) |
 | Serif | ![Serif](previews/serif.png) |
 | Monospace | ![Monospace](previews/monospace.png) |
 | Tall / Condensed | ![Tall Condensed](previews/tall-condensed.png) |
