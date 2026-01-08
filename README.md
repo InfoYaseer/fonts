@@ -23,18 +23,18 @@ Whether you're building a website, mobile app, poster, brand identity, social me
 
 ## 🗂️ Folder Structure
 
-Fonts/
-│
-├── Brush-Grunge/
-├── Cultural-Styled/
-├── Display/
-├── Handwritten/
-├── Monospace/
-├── Retro-Vintage/
-├── Sans-Serif/
-├── Script/
-├── Serif/
-├── Tall-Condensed/
+Fonts/<br>
+│<br>
+├── Brush-Grunge/<br>
+├── Cultural-Styled/<br>
+├── Display/<br>
+├── Handwritten/<br>
+├── Monospace/<br>
+├── Retro-Vintage/<br>
+├── Sans-Serif/<br>
+├── Script/<br>
+├── Serif/<br>
+├── Tall-Condensed/<br>
 └── README.md
 
 
