@@ -57,8 +57,7 @@ Below are example preview images used to demonstrate font styles:
 | Retro-Vintage | ![Retro-Vintage](previews/9@2x-100.jpg) |
 | Cultural-Styled | ![Cultural-Styled](previews/10@2x-100.jpg) |
 
-> 💡 Preview images are for demonstration only. Font licenses are included where required.
-
+> 💡 Preview images are for demonstration only.
 ---
 
 ## 🚀 How to Use
