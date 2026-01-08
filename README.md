@@ -100,6 +100,5 @@ If you find this collection useful:
 - Post it on LinkedIn to help others
 
 ---
-
-**Maintained with ❤️ by InfoYaseer**
+<p align="center"><b>Maintained with ❤️ by InfoYaseer</b></p>
 
